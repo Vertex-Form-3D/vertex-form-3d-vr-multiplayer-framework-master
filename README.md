@@ -1,2 +1,2 @@
 # vertex-form-3d-vr-multiplayer-framework-master
-Pilot Unity framework for creating standalone multiplayer VR applications for Meta Quest devices 
+This Unity package is an open-source VR multiplayer framework for creating social applications. It provides a highly customizable foundation tailored for both developers and non-technical users, significantly reducing the effort required to build immersive experiences. The framework includes essential tools for developing scalable VR environments compatible with Meta Quest and other platforms. As an open-source solution, it enables developers to access reliable updates from the core repository while retaining full control over their app's unique configurations.
