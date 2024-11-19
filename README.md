@@ -9,7 +9,7 @@ What's inside:
 - UI with two types of layout, mute/sit/stand button, a mirror
 - Easy way to add/remove your own scenes
 - Simple Avatar system
-- Geospatial integration
+- Geospatial integration (Earth Terrain/Moon Terrain with Cesium SDK)
 - Samples:
   - Scenes
   - Buttons
