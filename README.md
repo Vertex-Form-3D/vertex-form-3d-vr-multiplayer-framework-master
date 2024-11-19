@@ -5,7 +5,7 @@ We help 3D artists create virtual reality applications for clients and build suc
 - Unity 6, XR Toolkit 3
 - Login panel
 - Meta Quest Support
-- 20 concurrent users
+- Multiplayer with Photon PUN 2 - 20 concurrent users
 - Remote scenes via cloud delivery
 - UI with two types of layout, mute/sit/stand button, a mirror
 - Easy way to add/remove your own scenes
