@@ -1,6 +1,7 @@
 # vertex-form-3d-vr-multiplayer-framework-master
 We help 3D artists create virtual reality applications for clients and build successful careers doing what they love. Our open-source Unity framework includes all the essential packages and integrations needed to develop and publish standalone apps for Meta Quest. It requires knowledge of Unity, a desktop with a graphics card, Meta Quest Link, and other essential software for building your own applications.
 <h2 align="center"><b>What's inside:</b></h2>
+
 - Unity 6, XR Toolkit 3
 - Login panel
 - Meta Quest Support
