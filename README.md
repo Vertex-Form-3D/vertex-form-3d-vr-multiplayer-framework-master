@@ -21,3 +21,12 @@ We help 3D artists create virtual reality applications for clients and build suc
   - Grab interactables
 
   <h2 align="center"><b>Setup Checklist:</b></h2>
+
+- Unity Hub 
+- Unity 6000.0.16
+- Meta Quest Developer’s hub 
+- Quest Link 
+- Cloud account (Unity cloud services, Google Cloud, AWS, Github, etc) 
+- Cesium account 
+- Photon PUN 2 account 
+
