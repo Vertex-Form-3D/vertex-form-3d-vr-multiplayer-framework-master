@@ -20,7 +20,7 @@ We help 3D artists create virtual reality applications for clients and build suc
   - Game elements
   - Grab interactables
 
-<iframe width="560" height="315" src="[https://www.youtube.com/embed/YourVideoID](https://youtu.be/63QV10y7MsY?feature=shared)" frameborder="0" allowfullscreen></iframe>
+[![Watch the video](https://img.youtube.com/vi/YourVideoID/0.jpg)](https://www.youtube.com/watch?v=YourVideoID)
 
 
   <h2 align="center"><b>Setup Checklist:</b></h2>
