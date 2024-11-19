@@ -22,9 +22,10 @@ We help 3D artists create virtual reality applications for clients and build suc
 
 <div align="center">
   <a href="https://youtu.be/63QV10y7MsY">
-    <img src="https://img.youtube.com/vi/63QV10y7MsY/0.jpg" alt="Watch the video" style="display:block; background-color:white; border:none; max-width:100%; height:auto;">
+    <img src="https://your-custom-image-url.jpg" alt="Watch the video" style="border:none; max-width:100%; height:auto;">
   </a>
 </div>
+
 
 
 
