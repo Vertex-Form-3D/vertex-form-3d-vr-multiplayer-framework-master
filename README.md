@@ -20,7 +20,12 @@ We help 3D artists create virtual reality applications for clients and build suc
   - Game elements
   - Grab interactables
 
-[![Watch the video](https://img.youtube.com/vi/63QV10y7MsY/0.jpg)](https://youtu.be/63QV10y7MsY)
+<div align="center">
+  <a href="https://youtu.be/63QV10y7MsY">
+    <img src="https://img.youtube.com/vi/63QV10y7MsY/0.jpg" alt="Watch the video" style="width:70%; border-radius:10px;">
+  </a>
+</div>
+
 
 
 
