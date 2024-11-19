@@ -23,7 +23,7 @@ We help 3D artists create virtual reality applications for clients and build suc
   <h2 align="center"><b>Setup Checklist:</b></h2>
 
 - Unity Hub 
-- Unity 6000.0.16
+- Unity 6000.0.23f1
 - Meta Quest Developer’s hub 
 - Quest Link 
 - Cloud account (Unity cloud services, Google Cloud, AWS, Github, etc) 
